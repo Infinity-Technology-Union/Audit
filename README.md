@@ -21,7 +21,7 @@ ITU 向来都遵循原版生存并且涵盖生电、建筑等各种玩法。值�
     - 你认为你有哪些优势适合待在该服
         - 例如：<br>擅长的领域（红石 / 建筑 / 后勤）<br>编程语言……
 - 联系方式：QQ 号
-    - 建议加入我们的闲聊群 [950032304](https://jq.qq.com/?_wv=1027&k=dQ1XmkXI) 以便联系您
+    - 建议加入我们的闲聊群 [950032304](https://jq.qq.com/?_wv=1027&k=dQ1XmkXI) 方便联系您
 >请添加 `待通过 / Apply` 至你的 Issue 的 Labels<br>
 
 **如果您还是不了解 Issue 的具体格式，请参考此 [示例](https://github.com/Infinity-Technology-Union/Audit/issues/3)**
