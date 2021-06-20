@@ -9,7 +9,7 @@ ITU 向来都遵循原版生存并且涵盖生电、建筑等各种玩法。值�
 - 拥有 Github 账号才能发 Issue
 - 保持网络畅通<br>
 
-请跳转至 [Issue](https://github.com/Infinity-Technology-Union/Audit/issues/new) 并按如下格式发 Issue
+请跳转至 [Issue](https://github.com/Infinity-Technology-Union/Audit/issues/new/choose) 并按如下格式发 Issue
 
 ### Issue 格式
 标题 / Title：成员申请 <你的游戏 ID ><br>
